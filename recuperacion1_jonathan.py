@@ -11,7 +11,7 @@ def opciones():
     os.system("clear")
     while(1):
         try:
-            print("banco SARITA")
+            print("banco SARITA*****")
             print("1.-  reporte")
             print("2.-retiro/deposito")
             print("3.-prestamo")
